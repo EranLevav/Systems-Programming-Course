@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "type": "admin",
+      "country": "united states",
+      "movies": [],
+      "balance": "3358",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "type": "normal",
+      "country": "Russia",
+      "movies": [],
+      "balance": "96",
+      "username": "Client2",
+      "password": "tryingagain"
+    },
+    {
+      "type": "normal",
+      "country": "Russia",
+      "movies": [],
+      "balance": "98",
+      "username": "Client1",
+      "password": "tryingagain"
+    },
+    {
+      "type": "normal",
+      "country": "Russia",
+      "movies": [],
+      "balance": "94",
+      "username": "Client3",
+      "password": "tryingagain"
+    },
+    {
+      "type": "normal",
+      "country": "Russia",
+      "movies": [],
+      "balance": "96",
+      "username": "Client4",
+      "password": "tryingagain"
+    },
+    {
+      "type": "normal",
+      "country": "Russia",
+      "movies": [],
+      "balance": "96",
+      "username": "Client0",
+      "password": "tryingagain"
+    }
+  ]
+}
