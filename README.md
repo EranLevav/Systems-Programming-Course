@@ -1,6 +1,4 @@
 # Systems-Programming-Course-2018-Fall
-System Programming course projects
-
 Hi everybody,
 This is a brief explanation of the projects I did in this course.
 
